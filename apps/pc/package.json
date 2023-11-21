@@ -1,5 +1,5 @@
 {
-  "name": "@pc/server",
+  "name": "@pc-1/server",
   "private": true,
   "scripts": {
     "start": "nest start",
